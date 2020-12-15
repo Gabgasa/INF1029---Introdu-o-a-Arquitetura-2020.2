@@ -1,6 +1,6 @@
-Trabalho 1 sobre operações com matrizes
+## Trabalho 1 sobre operações com matrizes
 
-Compilação:
+* Compilação:
 
 gcc -o matrix_lib_test matrix_lib_test.c matrix_lib.c timer.c
 
