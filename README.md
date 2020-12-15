@@ -1,4 +1,4 @@
-# INF1029---Introdu-o-a-Arquitetura-2020.2
+# INF1029 - Introdução-a-Arquitetura-2020.2
 Autores: Gabriel Aquino e Mariela Andrade
 
 * Trabalho 1
